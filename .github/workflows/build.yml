@@ -202,4 +202,3 @@ jobs:
       with:
         files: stairspeedtest_reborn_win32.tar.gz
         draft: true
-        
